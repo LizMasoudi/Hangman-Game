@@ -1,0 +1,21 @@
+body {
+  background-image: url("../images/got_wallpaper.png"); 
+  color:white;
+  text-align:center;
+}
+
+#wordHolder {
+  font-size: 30px;
+}
+
+.btn {
+  background-color: white;
+  border-color: white;
+  color:#ba6249;
+}
+
+.btn:hover {
+  background:#f6ea9f;
+  border-color:#f6ea9f;
+  color:#ba6249;
+}
